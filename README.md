@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Sentiment Analysis NLP with Python - README</title>
-</head>
 <body>
     <div class="container">
         <h1>Sentiment Analysis NLP with Python</h1>
