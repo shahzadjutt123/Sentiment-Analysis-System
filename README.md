@@ -2,33 +2,6 @@
 <html lang="en">
 <head>
     <title>Sentiment Analysis NLP with Python - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.7;
-            background-color: #f5f5f5;
-            padding: 20px;
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-            background: #ffffff;
-            padding: 25px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px #ccc;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        code {
-            background: #f0f0f0;
-            padding: 4px 8px;
-            border-radius: 4px;
-        }
-        ul {
-            margin-left: 18px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
